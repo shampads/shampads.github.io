@@ -1,1 +1,38 @@
-# shampads.github.io
+[saitl.html](https://github.com/user-attachments/files/29162477/saitl.html)
+# shampads.github.io<html>
+<head>
+<title> компьютер
+</title>
+</head>
+<body>
+<style>
+body { background: url(fon2.jpg);}
+</style>
+<font color="green">
+<h1 align="center"> все о компьютере</h1>
+</font>
+<hr>
+<font size="4pt">
+<p align="left">на сайте вы сможете получить <i>различную информацию</i> о компьютере, его программном обеспечении и компьютерных комплектующих
+</p>
+<p align="right">терминологический словарь познакомит вас с<b>компьютерными терминами</b>, а также вы сможете заполнить анкету
+</p>
+</font>
+<img src=kompjuter.jpg width="400" height="300" title="компьютер" align="right">
+<p align="left">
+<font face="monotype corsiva">
+<font size=4>
+[<a href="glossary.html"> словарь</a>}&nbsp
+[<a href="software.html"> программы</a>}&nbsp
+[<a href="hardware.html"> комплектующие</a>}&nbsp
+[<a href="anketa.html"> анкета</a>}&nbsp
+
+</p>
+<br>
+<address>
+<a href="mailto:sampi7182@gmail.com">e-mail:sampi7182@gmail.com</a>
+</address>
+</font>
+</font>
+</body>
+</html>
